@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sakshi R Gupta
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any new project
-- 📫 How to reach me [linkedin](www.linkedin.com/in/guptasakshi25)
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/guptasakshi25)
 
 <!---
 sakshirgupta/sakshirgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
